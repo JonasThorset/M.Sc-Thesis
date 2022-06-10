@@ -1,0 +1,19 @@
+Sjekk at funker før lab:
+	1. Sjekk at pose estimation funker med EHD(må endre undistort funksjonen til fisheye)
+	2. Sjekk at 3D tracking funker med EHD(undistortFishEye)
+	3. 
+
+
+Ting som må pushes til git:
+	1. Kalibreringsdata
+	2. Oppdatert main.py i /PoseEstimation
+	3. Oppdatert main.py i /3Dtracking
+
+Ta med:
+	1. Baller og kuler som skal trackes(husk og stikke hull på tennisballen)
+	2. Ståltråd og tråd
+	3. Alle kameraene
+	4. Ubuntu laptop og MS-surface
+	5. Målebånd og tommestokk
+	6. Stikk opp og lån usb->usbc adapter på EL-teknisk
+	7. Snus og godt humør
